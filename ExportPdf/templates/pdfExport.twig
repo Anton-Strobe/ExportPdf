@@ -1,0 +1,3 @@
+{% set pdfExportUrl = urlFor('CoreHome.index', _query)|e('html_attr') %}
+<a href="#" id="pdfExport" class="btn btn-default" onclick="exportToPdf()">Export PDF</a>
+<script src="{{ 'plugins/PdfExport/assets/pdfExport.js'|e('url') }}"></script>

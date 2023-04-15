@@ -1,0 +1,18 @@
+{
+    "name": "ExportPdf",
+    "version": "1.0.7",
+    "description": "Экспорт страницы в PDF",
+    "license": "GPL v3+",
+    "require": {
+      "php": ">=7.2.5",
+      "matomo": ">=4.0.0-b1,<5.0.0-b1"
+    },
+    "authors": [
+      {
+        "name": "tohin",
+        "email": "anton.strobe@gmail.com",
+        "homepage": "https://example.com"
+      }
+    ]
+  }
+  
