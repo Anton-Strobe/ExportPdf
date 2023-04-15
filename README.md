@@ -9,7 +9,7 @@ Description: ExportPdf is a plugin for the Matomo analytics platform that enable
 
 
 
-
+________________________________________________________________________
 Установка:
 1. Установка на сервере с Apache:
 
@@ -39,7 +39,7 @@ Description: ExportPdf is a plugin for the Matomo analytics platform that enable
 
 После активации плагина ExportPdf, вы сможете настроить его в соответствии с вашими потребностями и начать экспортировать данные аналитики в PDF-формате.
 
-
+________________________________________________________________________
 
 1. Installation on an Apache server:
 
